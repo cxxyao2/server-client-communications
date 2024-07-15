@@ -1,0 +1,9 @@
+C:\csharp-projects\WebSocket\WebSocketSolution\ServerSide\bin\Debug\ServerSide.exe.config
+C:\csharp-projects\WebSocket\WebSocketSolution\ServerSide\bin\Debug\ServerSide.exe
+C:\csharp-projects\WebSocket\WebSocketSolution\ServerSide\bin\Debug\ServerSide.pdb
+C:\csharp-projects\WebSocket\WebSocketSolution\ServerSide\bin\Debug\websocket-sharp.dll
+C:\csharp-projects\WebSocket\WebSocketSolution\ServerSide\obj\Debug\ServerSide.csproj.AssemblyReference.cache
+C:\csharp-projects\WebSocket\WebSocketSolution\ServerSide\obj\Debug\ServerSide.csproj.CoreCompileInputs.cache
+C:\csharp-projects\WebSocket\WebSocketSolution\ServerSide\obj\Debug\ServerSide.csproj.Up2Date
+C:\csharp-projects\WebSocket\WebSocketSolution\ServerSide\obj\Debug\ServerSide.exe
+C:\csharp-projects\WebSocket\WebSocketSolution\ServerSide\obj\Debug\ServerSide.pdb

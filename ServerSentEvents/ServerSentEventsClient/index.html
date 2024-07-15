@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="en">
+	<head>
+		<meta charset="UTF-8" />
+		<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+		<title>SSE Client</title>
+	</head>
+	<body>
+		<h1>Server-Sent Events Client</h1>
+		<button type="button" onclick="connectServer()">connect</button>
+
+		<div id="events"></div>
+
+		<script>
+			function connectServer() {
+				console.log('start connecting...')
+				const eventSource = new EventSource('http://localhost:5183/')
+
+				eventSource.onmessage = function (event) {
+					const newElement = document.createElement('div')
+					newElement.textContent = 'New event: ' + event.data
+					document.getElementById('events').appendChild(newElement)
+				}
+			}
+		</script>
+	</body>
+</html>

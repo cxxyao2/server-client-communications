@@ -1,0 +1,14 @@
+C:\csharp-projects\WebhookExample\webhookclient\bin\Debug\net8.0\WebhookClient.exe
+C:\csharp-projects\WebhookExample\webhookclient\bin\Debug\net8.0\WebhookClient.deps.json
+C:\csharp-projects\WebhookExample\webhookclient\bin\Debug\net8.0\WebhookClient.runtimeconfig.json
+C:\csharp-projects\WebhookExample\webhookclient\bin\Debug\net8.0\WebhookClient.dll
+C:\csharp-projects\WebhookExample\webhookclient\bin\Debug\net8.0\WebhookClient.pdb
+C:\csharp-projects\WebhookExample\webhookclient\obj\Debug\net8.0\WebhookClient.GeneratedMSBuildEditorConfig.editorconfig
+C:\csharp-projects\WebhookExample\webhookclient\obj\Debug\net8.0\WebhookClient.AssemblyInfoInputs.cache
+C:\csharp-projects\WebhookExample\webhookclient\obj\Debug\net8.0\WebhookClient.AssemblyInfo.cs
+C:\csharp-projects\WebhookExample\webhookclient\obj\Debug\net8.0\WebhookClient.csproj.CoreCompileInputs.cache
+C:\csharp-projects\WebhookExample\webhookclient\obj\Debug\net8.0\WebhookClient.dll
+C:\csharp-projects\WebhookExample\webhookclient\obj\Debug\net8.0\refint\WebhookClient.dll
+C:\csharp-projects\WebhookExample\webhookclient\obj\Debug\net8.0\WebhookClient.pdb
+C:\csharp-projects\WebhookExample\webhookclient\obj\Debug\net8.0\WebhookClient.genruntimeconfig.cache
+C:\csharp-projects\WebhookExample\webhookclient\obj\Debug\net8.0\ref\WebhookClient.dll
