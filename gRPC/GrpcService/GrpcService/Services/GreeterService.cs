@@ -18,5 +18,14 @@ namespace GrpcService.Services
                 Message = "Hello " + request.Name
             });
         }
+
+        public override Task<AddReply> Add(AddRequest request, ServerCallContext context)
+        {
+            var sum = request.Number1 + request.Number2;
+            return Task.FromResult(new AddReply
+            {
+                Sum = sum
+            });
+        }
     }
 }

@@ -43,12 +43,12 @@
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "GrpcClient",
+              "Title": "GrpcClient.csproj",
               "DocumentMoniker": "C:\\coding-servce-client-communicate\\gRPC\\GrpcClient\\GrpcClient\\GrpcClient.csproj",
               "RelativeDocumentMoniker": "GrpcClient\\GrpcClient.csproj",
               "ToolTip": "C:\\coding-servce-client-communicate\\gRPC\\GrpcClient\\GrpcClient\\GrpcClient.csproj",
               "RelativeToolTip": "GrpcClient\\GrpcClient.csproj",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAA9AAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAfAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
               "WhenOpened": "2024-08-05T21:09:46.585Z",
               "EditorCaption": ""
@@ -61,7 +61,7 @@
               "RelativeDocumentMoniker": "GrpcClient\\Protos\\greet.proto",
               "ToolTip": "C:\\coding-servce-client-communicate\\gRPC\\GrpcClient\\GrpcClient\\Protos\\greet.proto",
               "RelativeToolTip": "GrpcClient\\Protos\\greet.proto",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAGAAAA",
+              "ViewState": "AQIAAAEAAAAAAAAAAAAAAAIAAAAlAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003853|",
               "WhenOpened": "2024-08-05T21:08:38.23Z",
               "EditorCaption": ""
@@ -74,7 +74,7 @@
               "RelativeDocumentMoniker": "GrpcClient\\Program.cs",
               "ToolTip": "C:\\coding-servce-client-communicate\\gRPC\\GrpcClient\\GrpcClient\\Program.cs",
               "RelativeToolTip": "GrpcClient\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAAAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAWAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-08-05T21:06:10.622Z",
               "EditorCaption": ""

@@ -17,7 +17,11 @@ internal class Program
         var client = new Greeter.GreeterClient(channel);
         var reply = await client.SayHelloAsync(new HelloRequest { Name = "GreeterClient" });
         Console.WriteLine($"Greetings: {reply.Message}");
+          var added = await client.AddAsync(new AddRequest { Number1 = 1, Number2 = 4 });
+            Console.WriteLine($"The result of Addition is :{added.Sum}");
         Console.WriteLine("press any key to exit");
+
+
     }
 }
 }

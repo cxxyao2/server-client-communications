@@ -8,6 +8,8 @@ package greet;
 service Greeter {
   // Sends a greeting
   rpc SayHello (HelloRequest) returns (HelloReply);
+  // Adds two numbers.
+  rpc Add (AddRequest) returns (AddReply);
 }
 
 // The request message containing the user's name.
@@ -18,4 +20,16 @@ message HelloRequest {
 // The response message containing the greetings.
 message HelloReply {
   string message = 1;
+}
+
+
+// The request message containing the two numbers.
+message AddRequest {
+  int32 number1 = 1;
+  int32 number2 = 2;
+}
+
+// The response message containing the sum of the two numbers.
+message AddReply {
+  int32 sum = 1;
 }
