@@ -3,6 +3,9 @@
   "WorkspaceRootPath": "C:\\coding-communicate\\SignalRExample\\ServerSide\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\jenni\\AppData\\Roaming\\Microsoft\\UserSecrets\\7647f94c-eb2d-4be1-a0d1-9ed35ced7acf\\secrets.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{805161C6-3358-44B9-882F-0084DC30BDAD}|ServerSide\\ServerSide.csproj|c:\\coding-communicate\\signalrexample\\serverside\\serverside\\chathub.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{805161C6-3358-44B9-882F-0084DC30BDAD}|ServerSide\\ServerSide.csproj|solutionrelative:serverside\\chathub.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -18,7 +21,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 5,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Bookmark",
@@ -38,7 +41,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
+              "Title": "secrets.json",
+              "DocumentMoniker": "C:\\Users\\jenni\\AppData\\Roaming\\Microsoft\\UserSecrets\\7647f94c-eb2d-4be1-a0d1-9ed35ced7acf\\secrets.json",
+              "RelativeDocumentMoniker": "..\\..\\..\\Users\\jenni\\AppData\\Roaming\\Microsoft\\UserSecrets\\7647f94c-eb2d-4be1-a0d1-9ed35ced7acf\\secrets.json",
+              "ToolTip": "C:\\Users\\jenni\\AppData\\Roaming\\Microsoft\\UserSecrets\\7647f94c-eb2d-4be1-a0d1-9ed35ced7acf\\secrets.json",
+              "RelativeToolTip": "..\\..\\..\\Users\\jenni\\AppData\\Roaming\\Microsoft\\UserSecrets\\7647f94c-eb2d-4be1-a0d1-9ed35ced7acf\\secrets.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-07-17T22:49:31.049Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\coding-communicate\\SignalRExample\\ServerSide\\ServerSide\\Program.cs",
               "RelativeDocumentMoniker": "ServerSide\\Program.cs",
@@ -46,18 +62,17 @@
               "RelativeToolTip": "ServerSide\\Program.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAeAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-15T02:32:13.201Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-15T02:32:13.201Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "ChatHub.cs",
               "DocumentMoniker": "C:\\coding-communicate\\SignalRExample\\ServerSide\\ServerSide\\ChatHub.cs",
               "RelativeDocumentMoniker": "ServerSide\\ChatHub.cs",
               "ToolTip": "C:\\coding-communicate\\SignalRExample\\ServerSide\\ServerSide\\ChatHub.cs",
               "RelativeToolTip": "ServerSide\\ChatHub.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAAAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-07-15T02:30:02.892Z",
               "EditorCaption": ""

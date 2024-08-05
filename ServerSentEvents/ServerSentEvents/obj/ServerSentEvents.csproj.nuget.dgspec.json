@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\csharp-projects\\ServerSentEvents\\ServerSentEvents\\ServerSentEvents.csproj": {}
+    "C:\\coding-communicate\\ServerSentEvents\\ServerSentEvents\\ServerSentEvents.csproj": {}
   },
   "projects": {
-    "C:\\csharp-projects\\ServerSentEvents\\ServerSentEvents\\ServerSentEvents.csproj": {
+    "C:\\coding-communicate\\ServerSentEvents\\ServerSentEvents\\ServerSentEvents.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\csharp-projects\\ServerSentEvents\\ServerSentEvents\\ServerSentEvents.csproj",
+        "projectUniqueName": "C:\\coding-communicate\\ServerSentEvents\\ServerSentEvents\\ServerSentEvents.csproj",
         "projectName": "ServerSentEvents",
-        "projectPath": "C:\\csharp-projects\\ServerSentEvents\\ServerSentEvents\\ServerSentEvents.csproj",
+        "projectPath": "C:\\coding-communicate\\ServerSentEvents\\ServerSentEvents\\ServerSentEvents.csproj",
         "packagesPath": "C:\\Users\\jenni\\.nuget\\packages\\",
-        "outputPath": "C:\\csharp-projects\\ServerSentEvents\\ServerSentEvents\\obj\\",
+        "outputPath": "C:\\coding-communicate\\ServerSentEvents\\ServerSentEvents\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -27,7 +27,7 @@
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "C:\\Program Files\\dotnet\\library-packs": {},
-          "https://pkgs.dev.azure.com/cheng2024xx/ChengDevProject/_packaging/CorePrint/nuget/v3/index.json": {}
+          "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "net8.0": {

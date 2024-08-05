@@ -1,17 +1,17 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\csharp-projects\\ServerSentEvents\\",
+  "WorkspaceRootPath": "C:\\coding-communicate\\ServerSentEvents\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{740E9505-5128-4DC0-9D73-3DAB410613A0}|ServerSentEvents\\ServerSentEvents.csproj|c:\\csharp-projects\\serversentevents\\serversentevents\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{740E9505-5128-4DC0-9D73-3DAB410613A0}|ServerSentEvents\\ServerSentEvents.csproj|c:\\coding-communicate\\serversentevents\\serversentevents\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{740E9505-5128-4DC0-9D73-3DAB410613A0}|ServerSentEvents\\ServerSentEvents.csproj|solutionrelative:serversentevents\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{740E9505-5128-4DC0-9D73-3DAB410613A0}|ServerSentEvents\\ServerSentEvents.csproj|c:\\csharp-projects\\serversentevents\\serversentevents\\itemservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{740E9505-5128-4DC0-9D73-3DAB410613A0}|ServerSentEvents\\ServerSentEvents.csproj|c:\\coding-communicate\\serversentevents\\serversentevents\\itemservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{740E9505-5128-4DC0-9D73-3DAB410613A0}|ServerSentEvents\\ServerSentEvents.csproj|solutionrelative:serversentevents\\itemservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{740E9505-5128-4DC0-9D73-3DAB410613A0}|ServerSentEvents\\ServerSentEvents.csproj|c:\\csharp-projects\\serversentevents\\serversentevents\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{740E9505-5128-4DC0-9D73-3DAB410613A0}|ServerSentEvents\\ServerSentEvents.csproj|c:\\coding-communicate\\serversentevents\\serversentevents\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{740E9505-5128-4DC0-9D73-3DAB410613A0}|ServerSentEvents\\ServerSentEvents.csproj|solutionrelative:serversentevents\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -44,11 +44,11 @@
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "ItemService.cs",
-              "DocumentMoniker": "C:\\csharp-projects\\ServerSentEvents\\ServerSentEvents\\ItemService.cs",
+              "DocumentMoniker": "C:\\coding-communicate\\ServerSentEvents\\ServerSentEvents\\ItemService.cs",
               "RelativeDocumentMoniker": "ServerSentEvents\\ItemService.cs",
-              "ToolTip": "C:\\csharp-projects\\ServerSentEvents\\ServerSentEvents\\ItemService.cs",
+              "ToolTip": "C:\\coding-communicate\\ServerSentEvents\\ServerSentEvents\\ItemService.cs",
               "RelativeToolTip": "ServerSentEvents\\ItemService.cs",
-              "ViewState": "AQIAAAYAAAAAAAAAAAA7wAgAAAAqAAAA",
+              "ViewState": "AQIAAAcAAAAAAAAAAAAkwBMAAAANAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-07-12T02:31:02.101Z",
               "EditorCaption": ""
@@ -57,11 +57,11 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\csharp-projects\\ServerSentEvents\\ServerSentEvents\\Program.cs",
+              "DocumentMoniker": "C:\\coding-communicate\\ServerSentEvents\\ServerSentEvents\\Program.cs",
               "RelativeDocumentMoniker": "ServerSentEvents\\Program.cs",
-              "ToolTip": "C:\\csharp-projects\\ServerSentEvents\\ServerSentEvents\\Program.cs",
+              "ToolTip": "C:\\coding-communicate\\ServerSentEvents\\ServerSentEvents\\Program.cs",
               "RelativeToolTip": "ServerSentEvents\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAqwCoAAAADAAAA",
+              "ViewState": "AQIAAAUAAAAAAAAAAIAwwAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-07-12T02:30:26.089Z",
               "EditorCaption": ""
@@ -70,14 +70,13 @@
               "$type": "Document",
               "DocumentIndex": 2,
               "Title": "WeatherForecast.cs",
-              "DocumentMoniker": "C:\\csharp-projects\\ServerSentEvents\\ServerSentEvents\\WeatherForecast.cs",
+              "DocumentMoniker": "C:\\coding-communicate\\ServerSentEvents\\ServerSentEvents\\WeatherForecast.cs",
               "RelativeDocumentMoniker": "ServerSentEvents\\WeatherForecast.cs",
-              "ToolTip": "C:\\csharp-projects\\ServerSentEvents\\ServerSentEvents\\WeatherForecast.cs",
+              "ToolTip": "C:\\coding-communicate\\ServerSentEvents\\ServerSentEvents\\WeatherForecast.cs",
               "RelativeToolTip": "ServerSentEvents\\WeatherForecast.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-12T02:30:22.916Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-12T02:30:22.916Z"
             }
           ]
         }

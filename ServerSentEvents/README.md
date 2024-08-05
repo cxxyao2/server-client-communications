@@ -1,4 +1,5 @@
-Server-Sent Events (SSE) is a standard describing how servers can initiate data transmission towards browser clients once an initial client connection has been established. Unlike WebSockets, which allow for bidirectional communication, SSE is a <i>one-way</i> channel where data is sent from the server to the client. It is often used to send real-time updates to web applications, such as notifications, live scores, or other streaming data.
+Server-Sent Events (SSE) is a standard describing how servers can initiate data transmission towards browser clients once an initial client connection has been established. Unlike WebSockets, which allow for bidirectional communication, SSE is a <i>one-way</i> channel where data is sent from the server to the client. It is often used to send real-time updates to web applications, such as notifications, live scores, or other streaming data. Once connection is establed, server side is keeping alive, continously sending
+info to the client side, e.g. DoorDash, ChatGPT, etc.
 
 ### How Server-Sent Events Work
 
