@@ -14,3 +14,24 @@
 ## Todo:
 
 - long polling ( not real real-time.)
+
+## About code quality Analysis tool
+
+### Sonarqube vs codeql
+
+Take the below factors into account:
+
+- Easy of setup and integration
+- Analytical capabilities and accuracy
+- Language support and compatibility
+- Rule customization and configurability
+- Community support and additonal resources
+- Performance and scalability
+
+Benefits:
+
+- identiy and fix critical security flaws in codebase, ensuring a robust and secure product
+
+Stages:
+
+- firstly, use Sonarqube as tool to analyze the codebase, to find the vulnerablities. CodeQL is a paid tool.
