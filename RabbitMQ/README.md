@@ -78,4 +78,4 @@ RabbitMQ provides a reliable and flexible messaging system, suitable for various
 - Delete c:\users\jenni\appdata\roaming\nuget folder before run `dotnet add package RabbitMQ.Client`
 - prerequisites: `docker run -it --rm --name rabbitmq -p 5672:5672 -p 15672:15672 rabbitmq:3.13-management` locally or connect to a remote RabbitMQ server
 - run sender : `cd\send\dotnet run`
-- run receiver: `cd\send\dotnet run`
+- run receiver: `cd\receiver\dotnet run`

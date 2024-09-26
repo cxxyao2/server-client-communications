@@ -4,7 +4,7 @@ KEY POINTS
 3, a server to notify a client
 4, request sent, response sent
 when a specific event occurs in one application,
-
+P
 advantages:
 1, real-time updates
 2, efficient. webhooks only send data when an event occures,
